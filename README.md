@@ -13,5 +13,29 @@ In this session, students learn the basics of programming using Python, the mate
 •  Condtional Statement (id, elif, else)
 
 •  Looping (for, while)
-##  Data Manipulation & Statistic
+##  Data Manipulation
+In this session using pandas and numpy as a library for:
 
+•  Make a new data frame
+
+•  Import data frame from .csv file
+
+•  Filtering, Sorting, Remove and Replacing Data  
+##  Statistic
+in this lesson, learn the basic statistics required such as:
+
+•  mean, median and mode
+
+•  Distribution Data
+
+•  Hypotesis and p value
+
+•  T-test and chi-square test
+
+•  Application in python
+##  SQL
+In this section,
+##  Data Visualization
+### Jupyter Notebook(Python)
+### Looker Studio
+### Tableau
