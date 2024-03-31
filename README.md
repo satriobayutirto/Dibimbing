@@ -163,4 +163,9 @@ In this section, carry out the data analysis process using previously studied ma
 •  Group-by aggregation
 
 ## Machine Learning
-Coming soon
+•  Regresion Linear
+
+•  Supervised machine learning (categorical)
+
+•  Unsupervised machine learning (categorical)
+
