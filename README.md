@@ -169,3 +169,9 @@ In this section, carry out the data analysis process using previously studied ma
 
 •  Unsupervised machine learning (categorical)
 
+•  Hyperparameter tuning
+
+•  Fautre Important
+
+•  Streamlit 
+
